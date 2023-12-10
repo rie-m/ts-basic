@@ -45,9 +45,9 @@
 // genericAdvancedSample()
 
 //10. 非同期処理
-import callbackSample from "./asynchronous/callback";
-import promiseSample from "./asynchronous/promise";
-import asyncAwaitSample from "./asynchronous/asyncAwait";
+import callbackSample from './asynchronous/callback'
+import promiseSample from './asynchronous/promise'
+import asyncAwaitSample from './asynchronous/asyncAwait'
 callbackSample()
 promiseSample()
 asyncAwaitSample()
